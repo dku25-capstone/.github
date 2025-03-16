@@ -1,4 +1,4 @@
-# 📊 Dankook Univ. SOLID KPI
+# 📊 Capstone. ChatGraph
 
 ## 목차
 
