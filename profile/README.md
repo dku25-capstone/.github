@@ -1,4 +1,4 @@
-# 📊 Capstone. ChatGraph
+# 📊 캡스톤디자인. ChatGraph
 
 ## 목차
 
@@ -11,7 +11,7 @@
 ## 개요
 
 > [!NOTE]
-> 캡스톤 디자인 ChatGraph 웹 서비스
+> ChatGPT 그래프 시각화를 위한 ChatGraph 웹 서비스
 
 ## 기간
 
