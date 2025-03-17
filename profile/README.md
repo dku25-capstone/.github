@@ -11,7 +11,7 @@
 ## 개요
 
 > [!NOTE]
-> ChatGPT 그래프 시각화를 위한 ChatGraph 웹 서비스
+> 챗GPT 질의응답 시각화를 위한 ChatGraph 웹 서비스
 
 ## 기간
 
