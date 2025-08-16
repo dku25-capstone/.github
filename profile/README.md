@@ -8,10 +8,11 @@
 | 3 | [팀원](#팀원) |
 | 4 | [기술 스택](#기술-스택) |
 | 5 | [주요 기능](#주요-기능) |
-| 6 | [시스템 아키텍처](#시스템-아키텍처) |
-| 7 | [설치 및 실행 방법](#설치-및-실행-방법) |
-| 8 | [프로젝트 구조](#프로젝트-구조) |
-| 9 | [향후 계획](#향후-계획) |
+| 6 | [서비스 화면](#서비스-화면) |
+| 7 | [시스템 아키텍처](#시스템-아키텍처) |
+| 8 | [설치 및 실행 방법](#설치-및-실행-방법) |
+| 9 | [프로젝트 구조](#프로젝트-구조) |
+| 10| [향후 계획](#향후-계획) |
 
 ---
 
@@ -60,6 +61,9 @@
 
 ---
 
+## 서비스 화면
+<img width="1568" height="921" alt="Image" src="https://github.com/user-attachments/assets/b3f3f9d1-ce88-4441-8dd1-5f2a0581cee8" />
+
 ## 시스템 아키텍처
 ```mermaid
 flowchart LR
@@ -68,3 +72,4 @@ flowchart LR
   Backend -->|Graph Query| Neo4j[(Neo4j DB)]
   Backend -->|Relational Query| MariaDB[(MariaDB)]
   Backend -->|OpenAI API| ChatGPT[OpenAI GPT API]
+
