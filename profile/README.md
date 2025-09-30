@@ -62,7 +62,9 @@
 ---
 
 ## 서비스 화면
-<img width="1568" height="921" alt="Image" src="https://github.com/user-attachments/assets/b3f3f9d1-ce88-4441-8dd1-5f2a0581cee8" />
+<img width="3944" height="2564" alt="Image" src="https://github.com/user-attachments/assets/7c18c719-0af8-497c-8cce-134702ea7ebf" />
+<img width="3944" height="2564" alt="Image" src="https://github.com/user-attachments/assets/5d84677b-7c6e-4555-a156-8185d2022954" />
+<img width="3944" height="2564" alt="Image" src="https://github.com/user-attachments/assets/302e8b48-3681-4324-8502-b343cc7a8955" />
 
 ## 시스템 아키텍처
 ```mermaid
