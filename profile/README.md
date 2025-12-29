@@ -46,7 +46,7 @@
 - MariaDB (회원/토픽 관리)
 
 **Infra**
-- AWS EC2, Docker, Nginx
+- OCI VM, Docker, Nginx
 - GitHub Actions (CI/CD)
 
 ---
@@ -70,8 +70,8 @@
 ```mermaid
 flowchart LR
   User -->|Web| Frontend[Next.js + D3.js]
-  Frontend -->|REST API| Backend[Spring Boot]
+  Frontend --> |REST API Request| Nginx[Nginx Reverse Proxy]
+  Nginx --> |Proxy Pass| Backend[Spring Boot]
   Backend -->|Graph Query| Neo4j[(Neo4j DB)]
   Backend -->|Relational Query| MariaDB[(MariaDB)]
   Backend -->|OpenAI API| ChatGPT[OpenAI GPT API]
-
